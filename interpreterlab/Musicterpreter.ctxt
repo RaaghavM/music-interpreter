@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Musicterpreter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ test()
+comment3.params=num1\ num2\ s
+comment3.target=void\ runStatement(int,\ int,\ MusicState)
+comment4.params=measure
+comment4.target=int\ numerizeMeasure(java.util.ArrayList)
+comment5.params=fileName
+comment5.target=java.lang.String\ load(java.lang.String)
+numComments=6

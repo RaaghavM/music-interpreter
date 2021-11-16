@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MusicState
+comment1.params=
+comment1.target=MusicState()
+comment2.params=varName\ value
+comment2.target=void\ setVariableValue(java.lang.Integer,\ java.lang.Integer)
+comment3.params=varName
+comment3.target=int\ getVariableValue(java.lang.Integer)
+comment4.params=newOp
+comment4.target=void\ changeCurrOp(int)
+comment5.params=
+comment5.target=int\ getCurrOp()
+comment6.params=newAdd
+comment6.target=void\ changeCurrAdd(int)
+comment7.params=
+comment7.target=int\ getCurrAdd()
+comment8.params=newAcc
+comment8.target=void\ changeAcc(int)
+comment9.params=
+comment9.target=int\ getCurrAcc()
+numComments=10

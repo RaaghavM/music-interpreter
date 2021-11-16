@@ -1,0 +1,15 @@
+{
+
+  count = 5
+
+  sum = 3 + 12
+
+  print sum
+
+  count = count + 1
+
+  sum = count
+
+  print sum + 2
+
+}
